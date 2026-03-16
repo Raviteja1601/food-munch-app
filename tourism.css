@@ -1,0 +1,59 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url("https://res.cloudinary.com/dzixwrbgw/image/upload/v1773385696/WhatsApp_Image_2025-07-29_at_08.42.22_b29ef212_wczkmr.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+.container p{
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: yellow;
+}
+.container h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: red;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+.btn2{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.btn2:hover{
+    background-color: white;
+    color: blue;
+}
+.btn3{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.btn3:hover{
+    background-color: white;
+    color: green;
+}
